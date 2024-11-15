@@ -17,10 +17,9 @@ package stringBuffer;
 		        // Delete text
 		        sb.delete(0, 6);
 		        
-		        // Reverse text
 		        sb.reverse();
 		        
-		        // Convert to String and print
+		    
 		        System.out.println(sb.toString());
 		    }
 		}
