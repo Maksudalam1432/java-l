@@ -14,9 +14,7 @@ public class Exp7 {
         System.out.println("End with r : " + name.endsWith("r"));
 
         System.out.println("\nCharactor at index 2 : " + name.charAt(2)); 
-        // System.out.println("\nCharactor at index 0 : " + name.charAt(0)); 
-        // System.out.println("Charactor at index 3 :" + name.charAt(3));
-
+      
         
         String firstName = "Hitesh";
         String lastName = "Singh";
